@@ -1,6 +1,10 @@
 import os
 import sys
 
+# Configuration for GitHub Achievement hunting
+BLOC = 160
+MAX = 160
+
 def display_welcome():
     """Displays a professional welcome message for the repository."""
     print("=" * 50)
