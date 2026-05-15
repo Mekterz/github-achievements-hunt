@@ -1,19 +1,51 @@
-# 🚀 GitHub Achievements Hunt & AI Integrations Testbed
+# GitHub Achievements Hunt
 
-Welcome to the **GitHub Achievements Hunt** repository! 🌟
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/Mekterz/github-achievements-hunt?style=social)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 
-This repository is dedicated to testing AI integrations, exploring automated workflows, and discovering the various achievements available on GitHub. It serves as a sandbox for experimenting with tools like GitHub Copilot, automated pull requests, and scripting logic.
+A professional research repository dedicated to exploring GitHub's gamification system, API integrations, and AI-assisted development workflows.
 
-## 🎯 Purpose
-- **Experimentation:** Testing out continuous integration and automated GitHub Actions.
-- **AI Integration:** Seeing how AI pairs with human logic to write clean code (e.g., Pair Extraordinaire!).
-- **Achievements:** Earning those shiny GitHub badges (YOLO, Pull Shark, Quickdraw, Starstruck, etc.).
+## Overview
 
-## 🌟 Support
-If you find this repository interesting or are also on the hunt for GitHub achievements, feel free to drop a **Star**! ⭐ (Every star helps towards the *Starstruck* achievement!)
+This project serves as a structured environment for testing various GitHub features, including:
+- **GraphQL API Integration**: Automated discussion management and repository configuration.
+- **AI Collaboration**: Implementing best practices for AI co-authored commits.
+- **Workflow Automation**: PowerShell-based scripts for repository maintenance and feature testing.
 
-## 📜 Contents
-- `script.py`: A simple test script used for demonstrating code commits with AI co-authorship.
+## Repository Structure
+
+```text
+├── src/                # Core Python logic and experimentation scripts
+├── tools/              # Automation scripts (PowerShell) and GraphQL queries
+├── .gitignore          # Standard repository filters
+└── LICENSE             # MIT License
+```
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8 or higher
+- GitHub CLI (gh) for automation tools
+
+### Running the core script
+To verify the environment, run the main logic script:
+```bash
+python src/script.py
+```
+
+## Achievements Tracking
+
+This repository was used to successfully demonstrate the acquisition and automation of various GitHub profile achievements:
+- **Pair Extraordinaire**: Automated co-authored contributions.
+- **Pull Shark**: Managed pull request cycles.
+- **Galaxy Brain**: Community discussion interactions via API.
+- **YOLO**: Rapid feature deployment and merging.
+
+## Contributing
+
+This is primarily a research repository. If you find the automation scripts useful for your own achievement hunt, feel free to fork and adapt them to your needs.
 
 ---
-*Created with ❤️ and AI.*
+*Maintained by [Mekterz](https://github.com/Mekterz)*
