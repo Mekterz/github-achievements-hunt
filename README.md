@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![CI](https://github.com/Mekterz/github-achievements-hunt/workflows/CI/badge.svg)
 ![GitHub stars](https://img.shields.io/github/stars/Mekterz/github-achievements-hunt?style=social)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 
